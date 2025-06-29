@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FostersForge
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# FostersForge
+>>>>>>> 2816e3825c2a1d3276703499c375ee1705a1a0fc
